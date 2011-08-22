@@ -1,0 +1,126 @@
+
+
+* Words
+
+ - Open
+ - Public
+ - Future
+ - Help
+ - Us
+ - Together
+ - Sharing
+ - Support
+ - Donate
+ - Steward
+ - Commons
+ - Today
+ - Internet
+ - Potential
+ - Alive
+ - Realizing
+ - Universal
+ - Access
+ - Culture
+ - Education
+ - Research
+ - Thrive
+ - Generous
+ - Reuse
+ - Community
+ - Ideas
+ - Knowledge
+ - Sane
+ - Build Something
+ - World
+ - Information
+ - Infrastructure
+ - Change
+
+
+* TODO Combinations
+
+ - Give Back to the Commons
+
+ - Support the Commons
+
+ - Sharing is Caring
+ 
+ - Help us Power an Open Future
+
+ - Help us Change the World
+
+ - Power the Future - Donate Today
+
+ - Support Open
+
+
+* Style Observations
+
+  Rule of thumb:  Keep it simple, stupid.  CC's current branding is made up
+from basic forms:  Rectangles, Rectangles with round edges, Circular shapes,
+Circular cutouts from flat forms.
+
+  Additionally, power of open, and some parts of the site also Have a 'corner
+fold' motif.
+
+  CC Deed page follows a similar format;  no corner bend, and stronger
+preference towards using gradients in forground forms.
+
+  CC Deed page also introduces a peculiar detail:  Deed is a fixed-width column,
+and whatever negative space is left over is filled with dark gray.  There is
+a slightly lighter, and a bit thicker of a dark gray border around the deed.
+
+  From the old campaign, the ad did not conform to the fixed width, nor was it
+visually consistent with the rest of the page in any other respect.  This is
+both good and bad in my opinion;  The good, is that it stands out.  The bad, is
+it feels kind of heavy handed in a bad way.
+
+  However, something the ad does absolutely right, is that it incorperates
+pictures of people (presumably those who said the quotes) into it.
+
+
+* Graphical Ideas
+
+  At least for the deed page, it might be interesting if we could incorperate
+a different style for the page, so that the header to the deed could have the
+donation ad integrated into it.  This idea may be harder to execute;  and the
+form might lack the desired simplicity.
+
+  As mentioned before;  the old ads on the deed pages get it right with having
+pictures of faces.  It might be worth noting that the page badges make use of
+the circular symbols for their worth as 'archatypical forms', and that motif
+should be in use in the banner.
+
+  Of course, the banner also needs to stand out, as much as it also needs to be
+consistent with the page.  I think the best way to do this may be to pick one
+or two stylistic rules, and bend it in a subtle way.  The old ads put the faces
+in a rectangle with rounded corners but in a way that (I think accidentally)
+suggests a similarity to the CC badges.  In this respect, they way they break
+a "rule" is by using the rectangle motif instead of the square motif.  More
+obviousely, the ad uses a color scheme that doesn't really relate to the rest
+of the page, as it also uses font shadows.
+
+  Another idea, with the use of faces, is that the faces could be drawings, and
+not just photographs.  The Korean explanation of CC comes to mind.  Other
+notable characters could perhaps be used (eg Sita sings the blues).  Attribution
+for the work could appear in the "gray space" on the deed, not unlike how it
+is done in the Power of Open book.  Extra points if the referenced image matches
+the license of the deed.
+
+
+  *Some Forms to Consider*
+
+1) Faces.
+
+2) Concentric round-corner rectangles.  Basically, a 1px double border, if
+   we're talking CSS.
+
+3) Round-corner rectangle as speech bubble.  [picture]{message]
+   The alignment of the elements would set it up to be similar in form to the 
+   CC deed bagdes.
+
+4) Integration into the deed banner.
+
+5) Overlap the deed banner, slightly.
+
+6) Illustrations instead of photographs.
